@@ -1,4 +1,5 @@
 # Project1-Teste
 
-Formulário escrito em C# no Windows para enviar uma menssagem para a Serial.
-O Objetivo é que o Arduino ou Esp32 leia a saída da Serial e imprima a informação em um LCD.
+Form written in C# on Windows to send a message to Serial.
+
+The goal is for the Arduino or Esp32 to read the output of the serial and print the information on an LCD.
